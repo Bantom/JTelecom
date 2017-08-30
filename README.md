@@ -1,6 +1,6 @@
 OSS/BSS system
 
-Developing system`s main aim is to automate sale of services and their management, and cooperation with customers to make this process more easier and less manual.
+Developing system`s main aim is to automate sale of services and their management, and cooperation with customers to make this process easier and less manual.
 
 Description of system:
 1) The system should include next user roles for interaction with the system:
